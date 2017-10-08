@@ -4,9 +4,9 @@ master
 3. dupa dupa
 
 dupa
-1. dupa 
-2. dupa 
-3. dupa 
+1.  
+2.  
+3.  
 
 xyz
 1. dupa 
