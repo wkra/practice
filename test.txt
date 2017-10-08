@@ -1,14 +1,9 @@
 master
-1. dupa dupa
-2. dupa dupa
-3. dupa dupa
+1. lubiê jeŸdziæ na rowerze
 
-dupa
+branch
 1.  
-2.  
-3.  
-
-xyz
+  
+branch
 1.  
-2.  
-3.  
+ 
